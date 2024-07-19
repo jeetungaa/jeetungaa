@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaasu Marothia</h1>
+<h1 align="center">Hi 👋, I'm Vaasu</h1>
 <h3 align="center">Learner</h3>
 
 - 🔭 I’m currently working on **web developement and designing**
