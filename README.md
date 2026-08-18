@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaasu Marothia</h1>
 <h3 align="center">Learner</h3>
 
-- 🔭 I’m currently working on **web developement and designing**
+- 🔭 I’m currently working on **web developement and softwares**
 
-- 🌱 I’m currently learning **AWS**
-
-- 👯 I’m looking to collaborate on **any MERN stack project**
+- 🌱 I’m currently learning **Machine learning and Deep learning**
 
 - 📫 How to reach me **vaasumarothia45@gmail.com**
 
